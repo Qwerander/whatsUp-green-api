@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/watsUp-green-api/static/css/main.c0a9267a.css",
+    "main.js": "/watsUp-green-api/static/js/main.dc744438.js",
+    "index.html": "/watsUp-green-api/index.html",
+    "static/media/search.svg": "/watsUp-green-api/static/media/search.fd956a8555671b04ccd824e62a33b2e2.svg",
+    "static/media/exit.svg": "/watsUp-green-api/static/media/exit.aab02359877344ba029569d05c7ccfd6.svg",
+    "static/media/user.svg": "/watsUp-green-api/static/media/user.6a00255f9976067525a977105ec829b9.svg",
+    "static/media/send.svg": "/watsUp-green-api/static/media/send.afeee2000b013edcf78e8c37133d94b6.svg",
+    "main.c0a9267a.css.map": "/watsUp-green-api/static/css/main.c0a9267a.css.map",
+    "main.dc744438.js.map": "/watsUp-green-api/static/js/main.dc744438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a9267a.css",
+    "static/js/main.dc744438.js"
+  ]
+}
