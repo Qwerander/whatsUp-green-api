@@ -12,14 +12,13 @@ function App() {
     if (user) {
       navigate("/chat");
     } else {
-      navigate("/auth");
+      navigate("/");
     }
   }, [user, navigate]);
 
   return (
     <Routes>
-      <Route path="/" element={null} />
-      <Route path="/auth" element={<Auth />} />
+      <Route path="/" element={<Auth />} />
       <Route path="/chat" element={<Chat />} />
       <Route path="*" element={<div>Страница не найдена</div>} />
     </Routes>
