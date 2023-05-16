@@ -2,7 +2,7 @@
   "name": "whatsup-chat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://qwerander.github.io/watsUp-green-api",
+  "homepage": "https://qwerander.github.io/whatsUp-green-api/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.4.0",
