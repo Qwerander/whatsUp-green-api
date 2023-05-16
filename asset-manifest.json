@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/watsUp-green-api/static/css/main.c0a9267a.css",
-    "main.js": "/watsUp-green-api/static/js/main.dc744438.js",
-    "index.html": "/watsUp-green-api/index.html",
-    "static/media/search.svg": "/watsUp-green-api/static/media/search.fd956a8555671b04ccd824e62a33b2e2.svg",
-    "static/media/exit.svg": "/watsUp-green-api/static/media/exit.aab02359877344ba029569d05c7ccfd6.svg",
-    "static/media/user.svg": "/watsUp-green-api/static/media/user.6a00255f9976067525a977105ec829b9.svg",
-    "static/media/send.svg": "/watsUp-green-api/static/media/send.afeee2000b013edcf78e8c37133d94b6.svg",
-    "main.c0a9267a.css.map": "/watsUp-green-api/static/css/main.c0a9267a.css.map",
-    "main.dc744438.js.map": "/watsUp-green-api/static/js/main.dc744438.js.map"
+    "main.css": "/whatsUp-green-api/static/css/main.c0a9267a.css",
+    "main.js": "/whatsUp-green-api/static/js/main.8f4f1170.js",
+    "index.html": "/whatsUp-green-api/index.html",
+    "static/media/search.svg": "/whatsUp-green-api/static/media/search.fd956a8555671b04ccd824e62a33b2e2.svg",
+    "static/media/exit.svg": "/whatsUp-green-api/static/media/exit.aab02359877344ba029569d05c7ccfd6.svg",
+    "static/media/user.svg": "/whatsUp-green-api/static/media/user.6a00255f9976067525a977105ec829b9.svg",
+    "static/media/send.svg": "/whatsUp-green-api/static/media/send.afeee2000b013edcf78e8c37133d94b6.svg",
+    "main.c0a9267a.css.map": "/whatsUp-green-api/static/css/main.c0a9267a.css.map",
+    "main.8f4f1170.js.map": "/whatsUp-green-api/static/js/main.8f4f1170.js.map"
   },
   "entrypoints": [
     "static/css/main.c0a9267a.css",
-    "static/js/main.dc744438.js"
+    "static/js/main.8f4f1170.js"
   ]
 }
